@@ -24,5 +24,6 @@ In order to get user input using Node.js, it's necessary to use "prompt-sync". p
 Make sure you have Node and NPM installed
 Run this command in the terminal
 npm install prompt-sync
+
 Author & license
 This project has been authored by Jay Felix as a software engineering student at Moringa School.
